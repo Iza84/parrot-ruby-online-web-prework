@@ -4,3 +4,4 @@ puts "#{phrase}"
 end
 
 parrot 
+parrot("pretty bird")
