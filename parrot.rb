@@ -1,6 +1,6 @@
-def parrot (phrase = "squawk!")
-puts " #{phrase}"
-return " #{phrase}"
+def parrot (phrase = "Squawk!")
+puts "#{phrase}"
+" #{phrase}"
 end
 
 parrot
